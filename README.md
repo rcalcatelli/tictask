@@ -1,5 +1,5 @@
 # TICTASK  
-#### Video Demo: <[URL HERE](https://youtu.be/jIsd_K0tSL4)>
+#### Video Demo: <[TicTask - CS50 Final Project](https://youtu.be/jIsd_K0tSL4)>
 
 # Task Management Project in Flask - TICTASK
 
