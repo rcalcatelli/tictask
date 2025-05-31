@@ -31,8 +31,8 @@ This is a task management project developed with Flask, which allows users to re
 
 1. **Clone the repository**:  
    ```bash  
-   git clone https://github.com/your_username/todo-app.git  
-   cd todo-app  
+   git clone https://github.com/rcalcatelli/tictask
+   cd tictask  
    ```
 
 2. **Create a virtual environment** (optional but recommended):  
